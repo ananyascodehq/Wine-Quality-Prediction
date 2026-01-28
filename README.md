@@ -56,15 +56,7 @@ git clone https://github.com/yourusername/wine-quality-ml.git
 
 ```
 
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-
-```
-
-
-3. Run the notebook:
+2. Run the notebook:
 ```bash
 jupyter notebook wine_quality_analysis.ipynb
 
